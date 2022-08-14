@@ -18,8 +18,8 @@
 ## ⚡ Stats
 <br>
 
-![Halil Can's github stats](https://github-readme-stats.vercel.app/api?username=hllcncngz&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllcncngz&theme=dark)
+![Halil Can's github stats](https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&theme=dark)
 
 
 
