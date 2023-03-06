@@ -1,6 +1,6 @@
 ### Hi there ! I'm Halil Can Cengiz 👋 <br><br>
 
-- 🔭 I’m currently working on front-end position.
+- 🔭 I'm currently developing myself in the frontent field.
 - 🎓 I graduated from Karabük University Mechatronics Engineering.
 - 🌱 I’m currently learning JavaScript and React.
 - 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, React
