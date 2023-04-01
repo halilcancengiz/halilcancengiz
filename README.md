@@ -6,7 +6,7 @@
 - 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/halilcancengiz/) - [Gmail](mailto:hllcncngz1@gmail.com)<br><br>
 
-<img src="https://media.giphy.com/media/DffShiJ47fPqM/giphy.gif" align="center" width="500"> <br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500"> <br>
 
 <br>
 
@@ -22,6 +22,8 @@
     <a href="#" title="Tailwindcss"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60"/></a>
     <a href="#" title="Firebase"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png" width="60"/></a>
     <a href="#" title="NodeJS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="60"/>
+</div></a>
+<a href="#" title="Typescript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60"/>
 </div></a>
 
 
