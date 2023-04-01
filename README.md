@@ -1,12 +1,12 @@
 ### Hi there ! I'm Halil Can Cengiz 👋 <br><br>
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500"> <br>
+
 - 🔭 I'm currently developing myself in the frontent field.
 - 🎓 I graduated from Karabük University Mechatronics Engineering.
 - 🌱 I’m currently learning JavaScript and React.
 - 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/halilcancengiz/) - [Gmail](mailto:hllcncngz1@gmail.com)<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500"> <br>
 
 <br>
 
