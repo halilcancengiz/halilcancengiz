@@ -2,14 +2,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500"> <br>
 
-- 🔭 I'm currently developing myself in the frontent field.
-- 🎓 I graduated from Karabük University Mechatronics Engineering.
-- 🌱 I’m currently learning JavaScript and React.
-- 💬 Ask me about JavaScript, HTML, CSS, Bootstrap, React
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/halilcancengiz/) - [Gmail](mailto:hllcncngz1@gmail.com)<br><br>
-
-<br>
-
 ## ⚡ Technologies And Tools <br>
 <br>
 <div style="display:flex; align-items:center; justify-content:space-between; flex-direction:row;">
@@ -26,12 +18,13 @@
 <a href="#" title="Typescript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60"/>
 </div></a>
 
-
 ## ⚡ Stats
 <br>
 
 ![Halil Can's github stats](https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&theme=dark)
+
+
 
 
 
