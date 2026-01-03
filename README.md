@@ -1,25 +1,27 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Halil%20Can%20Cengiz&fontSize=70&animation=fadeIn" width="100%" />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFwamNid3pueXF5MHF6bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+  ### 🚀 Front-end Developer | [cite_start]Mechatronics Engineer [cite: 2, 57]
   
-  ### 🚀 Front-end Developer | Mechatronics Engineer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halilcancengiz)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.halilcancengiz.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halilcncengiz@gmail.com)
+  [cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halilcancengiz) [cite: 15]
+  [cite_start][![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.halilcancengiz.com) [cite: 10]
+  [cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halilcncengiz@gmail.com) [cite: 7]
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Front-end Developer** focused on developing high-performance, accessible, and user-friendly web interfaces. Specializing in **React**, **TypeScript**, and modern UI libraries, I focus on state management, performance optimization, and responsive design.
+[cite_start]I am a Front-end Developer focused on developing high-performance, accessible, and user-friendly web interfaces using modern technologies[cite: 38]. [cite_start]Specializing in React, TypeScript, and UI libraries, I focus on state management, performance optimization, and responsive design[cite: 39].
 
-- [cite_start]💼 **Latest Experience:** Front-end Developer at **Lecten UG**[cite: 43, 44].
+- [cite_start]💼 **Latest Experience:** Front-end Developer at **Lecten UG** (Aug 2023 - Feb 2025)[cite: 43, 44, 45].
 - [cite_start]🎓 **Education:** Mechatronics Engineering - **Karabük University**[cite: 56, 57].
 - [cite_start]🛠️ **Commitment:** Committed to clean code, sustainable software development, and efficient REST API integrations[cite: 40].
 
 ---
 
-### 🛠️ Technical Arsenal
+### [cite_start]🛠️ Technical Arsenal [cite: 16]
 
 | Category | Technologies |
 | :--- | :--- |
@@ -33,12 +35,12 @@ I am a **Front-end Developer** focused on developing high-performance, accessibl
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&layout=compact&theme=tokyonight" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilcancengiz&theme=tokyonight&hide_border=true&background=0D1117" width="89%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilcancengiz&theme=tokyonight" width="89%" />
 </div>
 
 ---
