@@ -1,30 +1,49 @@
-### Hi there ! I'm Halil Can Cengiz 👋 <br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Halil%20Can%20Cengiz&fontSize=70&animation=fadeIn" width="100%" />
+  
+  ### 🚀 Front-end Developer | Mechatronics Engineer
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halilcancengiz)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.halilcancengiz.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halilcncengiz@gmail.com)
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500"> <br>
+---
 
-## ⚡ Technologies And Tools <br>
-<br>
-<div style="display:flex; align-items:center; justify-content:space-between; flex-direction:row;">
-   <a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60"></a>
-    <a href="#" title="HTML 5"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60"></a>
-    <a href="#" title="CSS 3"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="60">
-    <a href="#" title="ReactJS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60"></a>
-    <a href="#" title="Bootstrap"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="60"></a>
-    <a href="#" title="GIT"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60">
-    <a href="#" title="Tailwindcss"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60"/></a>
-    <a href="#" title="Firebase"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png" width="60"/></a>
-    <a href="#" title="NodeJS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="60"/>
-</div></a>
-<a href="#" title="Typescript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60"/>
-</div></a>
+### 👨‍💻 About Me
+I am a **Front-end Developer** focused on developing high-performance, accessible, and user-friendly web interfaces. Specializing in **React**, **TypeScript**, and modern UI libraries, I focus on state management, performance optimization, and responsive design.
 
-## ⚡ Stats
-<br>
+- [cite_start]💼 **Latest Experience:** Front-end Developer at **Lecten UG**[cite: 43, 44].
+- [cite_start]🎓 **Education:** Mechatronics Engineering - **Karabük University**[cite: 56, 57].
+- [cite_start]🛠️ **Commitment:** Committed to clean code, sustainable software development, and efficient REST API integrations[cite: 40].
 
-![Halil Can's github stats](https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&theme=dark)
+---
 
+### 🛠️ Technical Arsenal
 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling & UI** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **State & Data** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools & Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
+---
 
+### 📊 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halilcancengiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcancengiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilcancengiz&theme=tokyonight&hide_border=true&background=0D1117" width="89%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=100&section=footer" width="100%" />
+  <sub>Designed with precision by **Halil Can Cengiz**</sub>
+</div>
